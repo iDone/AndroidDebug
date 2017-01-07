@@ -55,3 +55,5 @@
 # superjdb
 		关于jdwp的解析如我的这篇帖子：http://blog.csdn.net/lichao890427/article/details/51924451
 		对于高版本的jdwp服务器端(如android5.0)，支持新的底层命令对字节码进行逐行调试；由于apk中一般去除了行号信息，因此jdb没有字节码的调试功能就像windbg没有反汇编单步步过一样扯淡，本插件实现了java字节码和dalvik字节码逐行调试，使用了java源码自带的jdb-gui
+		
+交流群560017652欢迎讨论
